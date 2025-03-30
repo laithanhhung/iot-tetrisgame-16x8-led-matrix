@@ -16,3 +16,6 @@ Dự án tái hiện trò chơi Tetris huyền thoại trên ma trận LED 32x8,
 
 ## 🎯 Mục tiêu
 Mang lại trải nghiệm chơi game tối giản nhưng thú vị, đồng thời là công cụ học tập về lập trình nhúng, xử lý thời gian thực và tích hợp IoT.
+
+[🔗 Demostration Video](https://drive.google.com/drive/folders/10BklvK-6xGmmEYHmiqbKJnLMkwyAr_tq?fbclid=IwZXh0bgNhZW0CMTEAAR080i7X33QRw-KooDC3XI2Rl7BwwtR4k2QM_l4esSr_5UaV4_Tn_CtKbHc_aem_qEeTxDI2lM_Ms6vKglvLgA)
+
