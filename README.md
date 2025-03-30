@@ -2,12 +2,6 @@
 
 Dự án tái hiện trò chơi Tetris huyền thoại trên ma trận LED 32x8, sử dụng Arduino Uno R3 và ESP8266 NodeMCU. Trò chơi có thể điều khiển bằng 6 nút bấm, phát âm thanh qua buzzer và đồng bộ điểm số lên Google Sheets thông qua Wi-Fi.
 
-## 👨‍💻 Thành viên nhóm
-- Lai Thanh Hưng  
-- Hoàng Lê Trung Hiếu  
-- Đàm Thân Quý  
-- Phạm Hoàng Đức Minh  
-
 ## 🔧 Thành phần chính
 - Arduino Uno R3 (xử lý logic game)
 - LED Matrix 32x8 (hiển thị)
